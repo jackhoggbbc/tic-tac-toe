@@ -49,3 +49,17 @@ ol, ul {
   margin-left: 20px;
 }
 
+.game-bar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.game-board {
+	display: block;
+}
+
+.game-box {
+	display: block;
+}
+
